@@ -1,2 +1,0 @@
-This is my b.txt file.
-in this file we will explore many git information.

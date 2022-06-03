@@ -1,2 +1,0 @@
-This is my a.txt file.
-in this file we will explore many git commands.
